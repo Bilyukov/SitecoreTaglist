@@ -20,7 +20,8 @@ The advantages that Tagfield gives are:
 Tagfield is based on Chosen – a jQuery plugin:
 https://harvesthq.github.io/chosen/ 
 
-The installation package (Sitecore module) is located at [git]\ Sitecore Packages\Taglist-1.0.0.1.zip. 
+The installation package (Sitecore module) is located at [Taglist Module](../Sitecore Packages/Taglist-1.0.0.1.zip)
+
 Once the package is installed a new field type called Taglist appears in the Template builder:
 
 ![Taglist field in template builder](/Screenshots/TemplateBuilder.png)
