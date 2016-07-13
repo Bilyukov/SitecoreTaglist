@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\local.tagfieldTests\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/06/2016 11:08:33</publishTime>
+    </File>
+    <File Include="App_Config/Include/Hedgehog.InjectScripts.config">
+      <publishTime>01/08/2016 15:15:37</publishTime>
+    </File>
+    <File Include="App_Config/Include/Hedgehog.TagField.config">
+      <publishTime>01/08/2016 15:15:24</publishTime>
+    </File>
+    <File Include="App_Config/Include/TagField.config">
+      <publishTime>01/08/2016 15:15:24</publishTime>
+    </File>
+    <File Include="App_Config/Include/TagField.InjectScripts.config">
+      <publishTime>07/12/2016 11:03:13</publishTime>
+    </File>
+    <File Include="App_Config/Include/TagField/TagField.config">
+      <publishTime>01/08/2016 15:15:24</publishTime>
+    </File>
+    <File Include="App_Config/Include/TagField/TagField.InjectScripts.config">
+      <publishTime>07/12/2016 11:03:13</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>01/06/2016 11:08:33</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>01/06/2016 11:21:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>01/06/2016 11:07:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>01/06/2016 11:07:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>01/06/2016 11:07:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>01/06/2016 11:07:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>01/06/2016 11:07:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>01/06/2016 11:07:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>01/06/2016 11:07:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/06/2016 11:07:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/06/2016 11:07:05</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>07/12/2016 11:39:18</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.dll">
+      <publishTime>01/06/2016 11:21:39</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Zip.dll">
+      <publishTime>01/06/2016 11:21:39</publishTime>
+    </File>
+    <File Include="bin/TagField.dll">
+      <publishTime>07/12/2016 11:51:18</publishTime>
+    </File>
+    <File Include="bin/TagField.pdb">
+      <publishTime>07/12/2016 11:51:18</publishTime>
+    </File>
+    <File Include="bin/TagField.Web.dll">
+      <publishTime>07/12/2016 11:51:40</publishTime>
+    </File>
+    <File Include="bin/TagField.Web.pdb">
+      <publishTime>07/12/2016 11:51:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/12/2016 11:44:50</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.js">
+      <publishTime>01/07/2016 16:10:27</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>01/07/2016 16:10:39</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/chosen-sprite%402x.png">
+      <publishTime>03/27/2015 22:55:58</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/chosen-sprite.png">
+      <publishTime>03/27/2015 22:55:58</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/chosen.jquery.js">
+      <publishTime>01/11/2016 15:27:48</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/chosen.jquery.min.js">
+      <publishTime>01/06/2016 17:35:31</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/chosen.min.css">
+      <publishTime>01/07/2016 10:17:02</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/tagfield.css">
+      <publishTime>07/11/2016 15:55:10</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/TagField.js">
+      <publishTime>07/12/2016 10:39:02</publishTime>
+    </File>
+    <File Include="sitecore modules/shell/tagfield/TagField.xml">
+      <publishTime>01/06/2016 15:10:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/12/2016 11:51:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+E:\ControlRisk\TagField\TagField\TagField\bin\Debug\TagField.dll
+E:\ControlRisk\TagField\TagField\TagField\bin\Debug\TagField.pdb
+E:\ControlRisk\TagField\TagField\TagField\obj\Debug\TagField.dll
+E:\ControlRisk\TagField\TagField\TagField\obj\Debug\TagField.pdb
+E:\ControlRisk\TagField\TagField\TagField\obj\Debug\TagField.csprojResolveAssemblyReference.cache
